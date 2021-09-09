@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "type": "git",
   "repository": {
     "url": "https://github.com/KhidirProject/khidir-swap-lib"
-  },"publishConfig": {
+  },
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "engines": {
